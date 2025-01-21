@@ -1,2 +1,2 @@
-# FOROHUB-ALURA
-CHALLENGE ALURA LATAM 
+# AluraChallengeForoHub
+Challenge de Oracle + Alura (Literalura)
